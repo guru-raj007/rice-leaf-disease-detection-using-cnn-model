@@ -92,6 +92,3 @@ jupyter notebook
 
 ---
 
-## 📜 License
-
-MIT License
